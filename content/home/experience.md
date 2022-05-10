@@ -5,19 +5,19 @@ experience:
   - title: GraduateResearchAssistant
     company: The Pennsylvania State University
     company_url: ""
-    company_logo: org-x
-    location: Pennsylvania
+    company_logo: Color-Penn-State-Logo
+    location: State College, Pennsylvania
     date_start: 2018-08-20
     date_end: ""
-    description: Data analysis and writing.
+    description: ""
   - title: Research Associate
-    company: PRI
+    company: Population Research Institute at Pennsylvania State
     company_url: ""
-    company_logo: org-x
-    location: California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: Color-Penn-State-Logo
+    location: State College, Pennsylvania
+    date_start: 2020-01-01
+    date_end: ""
+    description: ""
 widget_id: Experience
 headless: true
 weight: 40
