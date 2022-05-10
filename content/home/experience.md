@@ -5,8 +5,8 @@ experience:
   - title: Graduate Research Assistant
     company: The Pennsylvania State University
     company_url: ""
-    company_logo: color-penn-state-logo
-    location: State College, PA
+    company_logo: Color-Penn-State-Logo
+    location: Pennsylvania
     date_start: 2018-08-020
     date_end: ""
     description: |-2
