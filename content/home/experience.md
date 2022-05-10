@@ -6,7 +6,7 @@ experience:
     company: The Pennsylvania State University
     company_url: ""
     company_logo: Color-Penn-State-Logo
-    location: State College, Pennsylvania
+    location: Pennsylvania
     date_start: 2018-08-20
     date_end: ""
     description: ""
@@ -14,7 +14,7 @@ experience:
     company: Population Research Institute at Pennsylvania State
     company_url: ""
     company_logo: Color-Penn-State-Logo
-    location: State College, Pennsylvania
+    location: Pennsylvania
     date_start: 2020-01-01
     date_end: ""
     description: ""
