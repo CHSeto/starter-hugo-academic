@@ -5,16 +5,11 @@ experience:
   - title: Graduate Research Assistant
     company: The Pennsylvania State University
     company_url: ""
-    company_logo: Color-Penn-State-Logo
+    company_logo: org-x
     location: Pennsylvania
     date_start: 2018-08-020
     date_end: ""
-    description: |-2
-        Responsibilities include:
-        
-        * Project conceptualization
-        * Data analysis and management
-        * Writing and publishing
+    description: Data analysis and writing.
   - title: Research Associate
     company: The Population Research Institute at Penn State
     company_url: ""
