@@ -1,7 +1,7 @@
 ---
 title: Christopher Seto
 role: PhD Candidate
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Crime and Delinquency
@@ -9,9 +9,6 @@ interests:
   - Religion and Ideology
   - Quantitative Methods
   - Big Data Analytics
-organizations:
-  - name: The Pennsylvania State University
-    url: https://sociology.la.psu.edu/people/chs37
 education:
   courses:
     - course: PhD in Criminology
