@@ -26,10 +26,10 @@ education:
       year: 2023
     - course: MA in Criminology
       institution: The Pennsylvania State University
-      year: 2018
+      year: 2020
     - course: BS in Electrical Engineering
       institution: Hope College
-      year: 2014
+      year: 2016
 email: chs37@psu.edu
 superuser: true
 highlight_name: true
