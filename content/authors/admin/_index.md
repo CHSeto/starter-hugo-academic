@@ -8,7 +8,7 @@ interests:
   - Health
   - Religion and Ideology
   - Quantitative Methods
-  - Big Data AnalyticsC
+  - Big Data Analytics
 social:
   - icon: envelope
     icon_pack: fas
