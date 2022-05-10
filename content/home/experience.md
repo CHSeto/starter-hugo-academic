@@ -2,12 +2,12 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Research Assistant
+    company: The Pennsylvania State University
     company_url: ""
-    company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
+    company_logo: color-penn-state-logo.jpg
+    location: State College, PA
+    date_start: 2018-08-020
     date_end: ""
     description: |-2
         Responsibilities include:
