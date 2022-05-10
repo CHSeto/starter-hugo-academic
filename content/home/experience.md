@@ -5,18 +5,18 @@ experience:
   - title: Graduate Research Assistant
     company: The Pennsylvania State University
     company_url: ""
-    company_logo: color-penn-state-logo.jpg
+    company_logo: color-penn-state-logo
     location: State College, PA
     date_start: 2018-08-020
     date_end: ""
     description: |-2
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-  - title: Professor of Semiconductor Physics
-    company: University X
+        * Project conceptualization
+        * Data analysis and management
+        * Writing and publishing
+  - title: Research Associate
+    company: The Population Research Institute at Penn State
     company_url: ""
     company_logo: org-x
     location: California
