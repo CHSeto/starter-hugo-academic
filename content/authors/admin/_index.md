@@ -4,40 +4,33 @@ role: PhD Candidate (ABD)
 avatar_filename: cs_picture.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Crime and Delinquency
+  - Health
+  - Religion and Ideology
+  - Quantitative Methods
+  - Big Data AnalyticsC
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://twitter.com/Chris_H_Seto
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The Pennsylvania State University
+    url: https://sociology.la.psu.edu/people/chs37
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Criminology
+      institution: The Pennsylvania State University
+      year: 2023
+    - course: MA in Criminology
+      institution: The Pennsylvania State University
+      year: 2018
+    - course: BS in Electrical Engineering
+      institution: Hope College
+      year: 2014
+email: chs37@psu.edu
 superuser: true
 highlight_name: true
 ---
