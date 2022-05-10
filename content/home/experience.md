@@ -31,6 +31,3 @@ subtitle: null
 design:
   columns: "2"
 ---
-Graduate Research Assistant
-
-The Pennsylvania State University
