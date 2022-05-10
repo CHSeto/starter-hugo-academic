@@ -1,6 +1,6 @@
 ---
 title: Christopher Seto
-role: PhD Candidate (ABD)
+role: PhD Candidate
 avatar_filename: cs_picture.jpg 
 bio: ""
 interests:
@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: https://sociology.la.psu.edu/people/chs37
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Chris_H_Seto
