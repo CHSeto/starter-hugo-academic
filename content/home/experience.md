@@ -2,16 +2,16 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: Graduate Research Assistant
+  - title: GraduateResearchAssistant
     company: The Pennsylvania State University
     company_url: ""
     company_logo: org-x
     location: Pennsylvania
-    date_start: 2018-08-020
+    date_start: 2018-08-20
     date_end: ""
     description: Data analysis and writing.
   - title: Research Associate
-    company: The Population Research Institute at Penn State
+    company: PRI
     company_url: ""
     company_logo: org-x
     location: California
