@@ -1,7 +1,7 @@
 ---
 title: Christopher Seto
 role: PhD Candidate
-avatar_filename: avatar.jpg
+avatar_filename: cs_picture.jpg
 bio: ""
 interests:
   - Crime and Delinquency
