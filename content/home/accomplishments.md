@@ -46,7 +46,7 @@ item:
     organization: The American Society of Criminology (ASC)
     organization_url:
     title: Second place, Gene Carte Student Paper Competition
-    url: ''
+    url: 'https://asc41.com/about-asc/awards/gene-carte-student-paper-award-recipients/'
   - certificate_url:
     date_end:
     date_start: '2021-08-01'
@@ -54,7 +54,7 @@ item:
     organization: The Pennsylvania State University, Criminal Justice Research Center
     organization_url:
     title: CJRC Graduate Student Research Award Grant ($2,000)
-    url: ''
+    url: 'https://justicecenter.la.psu.edu/graduate/'
   - certificate_url:
     date_end: ''
     date_start: '2021-04-01'
