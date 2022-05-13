@@ -24,15 +24,13 @@ organizations:
     url: https://sociology.la.psu.edu/people/chs37
 education:
   courses:
-    - course: PhD in Criminology 
-      Doctoral minor in social data analytics
+    - course: PhD in Criminology              Doctoral minor in social data analytics
       institution: The Pennsylvania State University
       year: 2023
     - course: MA in Criminology
       institution: The Pennsylvania State University
       year: 2020
-    - course: BS in Electrical Engineering
-      Minor in mathematics
+    - course: BS in Electrical Engineering           Minor in mathematics
       institution: Hope College
       year: 2016
     - course: BA in Sociology
