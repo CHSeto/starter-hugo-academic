@@ -1,5 +1,5 @@
 ---
-title: Ethno-racial violence and political competition across three elections: A machine learning approach
+title: Ethno-racial violence and political competition across three elections -- A machine learning approach
 
 event: American Sociological Association (ASA) 2022 Annual Meeting
 event_url: 'https://www.asanet.org/annual-meeting/2022-annual-meeting'
