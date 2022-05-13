@@ -5,12 +5,12 @@ event: Population Association of America (PAA) 2022 Annual Meeting
 event_url: https://www.populationassociation.org/paa2022/home
 
 location: Atlanta, GA
-address:
-  street: 
-  city: 
-  region: 
-  postcode: 
-  country: 
+address: ''
+  street: ''
+  city: ''
+  region: ''
+  postcode: ''
+  country: United States
 
 summary: ''
 
@@ -24,7 +24,7 @@ all_day: false
 publishDate: ''
 
 authors: [Christopher Seto]
-tags: []
+tags: [COVID-19, Anti-Asian discrimination, Google trends, Stop AAPI Hate]
 
 # Is this a featured talk? (true/false)
 featured: false
