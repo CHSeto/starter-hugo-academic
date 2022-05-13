@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: chs37@psu.edu
+    link: mailto:chs37@psu.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Chris_H_Seto
