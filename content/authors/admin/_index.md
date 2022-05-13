@@ -16,8 +16,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Chris_H_Seto
-  - icon = google-scholar
-    icon_pack = ai
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=zs68W1kAAAAJ
 organizations:
   - name: The Pennsylvania State University
