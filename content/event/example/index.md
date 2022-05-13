@@ -1,16 +1,16 @@
 ---
-title: Collateral Consequences of Coronavirus: Exploring Contextual and Situational Predictors of Anti-Asian Hate Incidents in the United States during 2020
+title: 'Collateral Consequences of Coronavirus: Exploring Contextual and Situational Predictors of Anti-Asian Hate Incidents in the United States during 2020'
 
-event: Population Association of America (PAA) 2022 Annual Meeting
+event: 'Population Association of America (PAA) 2022 Annual Meeting'
 event_url: 'https://www.populationassociation.org/paa2022/home'
 
-location: Atlanta
+location: 'Atlanta'
 address: ''
   street: ''
   city: ''
-  region: GA
+  region: 'GA'
   postcode: ''
-  country: United States
+  country: 'United States'
 
 summary: ''
 
@@ -38,10 +38,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
