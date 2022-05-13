@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading. 'Accomplish&shy;ments'
+title: Awards and Grants
 subtitle:
 
 # Date format
@@ -29,23 +29,87 @@ item:
     description: ''
     organization: The Pennsylvania State University, Department of Sociology and Criminology
     organization_url:
-    title: 1st place, 13th annual criminology paper competition
+    title: First place, 13th annual criminology paper competition
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url:
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+    date_start: '2021-12-01'
+    description:
+    organization: The Pennsylvania State University, Center for Social Data Analytics
+    organization_url:
+    title: C-SoDA Seed Grant Accelerator Award ($5,000), co-PI 
+    url:
+  - certificate_url:
+    date_end:
+    date_start: '2021-11-01'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: The American Society of Criminology (ASC)
+    organization_url:
+    title: Second place, Gene Carte Student Paper Competition
+    url: ''
+  - certificate_url:
+    date_end:
+    date_start: '2021-08-01'
+    description: ''
+    organization: The Pennsylvania State University, Criminal Justice Research Center
+    organization_url:
+    title: CJRC Graduate Student Research Award Grant ($2,000)
+    url: ''
+  - certificate_url:
+    date_end: ''
+    date_start: '2021-04-01'
+    description: ''
+    organization: The Pennsylvania State University, Department of Sociology and Criminology
+    organization_url:
+    title: First place, 12th annual criminology paper competition
+    url: ''
+  - certificate_url:
+    date_end:
+    date_start: '2021-01-01'
+    description: ''
+    organization: The Pennsylvania State University, Department of Sociology and Criminology
+    organization_url:
+    title: First place, Annual Criminology Master's Thesis Award
+    url: ''
+  - certificate_url:
+    date_end:
+    date_start: '2021-01-01'
+    description: ''
+    organization: The Pennsylvania State University, Department of Sociology and Criminology
+    organization_url:
+    title: First place, Annual Criminology Master's Thesis Award
+    url: ''
+  - certificate_url:
+    date_end: ''
+    date_start: '2020-04-01'
+    description: ''
+    organization: The Pennsylvania State University, Department of Sociology and Criminology
+    organization_url:
+    title: First place, 11th annual criminology paper competition
+    url: ''
+  - certificate_url:
+    date_end: '2019-05-01'
+    date_start: '2018-08-01'
+    description: ''
+    organization: The Pennsylvania State University
+    organization_url:
+    title: University Graduate Fellowship ($30,000)
+    url: ''
+  - certificate_url:
+    date_end: ''
+    date_start: '2016-05-01'
+    description: ''
+    organization: Hope College
+    organization_url:
+    title: Senior Sociology Award
+    url: ''
+  - certificate_url:
+    date_end: '2016-05-01'
+    date_start: '2012-08-01'
+    description: ''
+    organization: Hope College
+    organization_url:
+    title: Presidential Scholarship ($60,000)
     url: ''
 
 design:
