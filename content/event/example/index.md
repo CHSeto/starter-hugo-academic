@@ -4,16 +4,16 @@ title: Collateral Consequences of Coronavirus -- Exploring Contextual and Situat
 event: Population Association of America (PAA) 2022 Annual Meeting
 event_url: 'https://www.populationassociation.org/paa2022/home'
 
-location: Marriott Marquis
+location: Atlanta, GA
 address: 
-  street: 111 street
-  city: Atlanta
-  region: GA
-  postcode: 16801
+  street:
+  city: 
+  region: 
+  postcode: 
   country: United States
 
-summary: summary here
-abstract: abstract here
+summary: 
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -31,7 +31,7 @@ tags: [COVID-19, Anti-Asian discrimination, Google trends, Stop AAPI Hate]
 featured: false
 
 image:
-  caption: 'Image credit: [**Shutterstock**](https://shutterstock.com)'
+  caption: 
   focal_point: Right
 
 # links:
