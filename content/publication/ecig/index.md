@@ -17,7 +17,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2020-01-01'
-doi: '10.1016/j.jadohealth.2019.08.030'
+doi: 'https://doi.org/10.1016/j.jadohealth.2019.08.030'
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: '2017-01-01T00:00:00Z'
