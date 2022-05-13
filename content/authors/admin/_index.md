@@ -1,6 +1,6 @@
 ---
 title: Christopher Seto
-role: PhD Candidate
+role: PhD Candidate (ABD)
 avatar_filename: avatar.jpg
 bio: ""
 interests:
