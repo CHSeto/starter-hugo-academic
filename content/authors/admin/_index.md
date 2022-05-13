@@ -2,7 +2,7 @@
 title: Christopher Seto
 role: PhD Candidate (ABD)
 avatar_filename: avatar.jpg
-bio: ""
+bio: "Chris is a PhD candidate (ABD) in Criminology at Penn State. His research interests focus on religious and ideological effects on crime and health. Chris is also interested in the application of spatial methods and big data analytics to understanding these effects at scale."
 interests:
   - Crime and Delinquency
   - Religion and Ideology
