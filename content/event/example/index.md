@@ -1,18 +1,19 @@
 ---
-title: 'Collateral Consequences of Coronavirus: Exploring Contextual and Situational Predictors of Anti-Asian Hate Incidents in the United States during 2020'
+title: Collateral Consequences of Coronavirus: Exploring Contextual and Situational Predictors of Anti-Asian Hate Incidents in the United States during 2020
 
-event: 'Population Association of America (PAA) 2022 Annual Meeting'
+event: Population Association of America (PAA) 2022 Annual Meeting
 event_url: 'https://www.populationassociation.org/paa2022/home'
 
-location: 'Atlanta'
-address: ''
-  street: ''
-  city: ''
-  region: 'GA'
-  postcode: ''
-  country: 'United States'
+location: Marriott Marquis
+address: 
+  street: 111 street
+  city: Atlanta
+  region: GA
+  postcode: 16801
+  country: United States
 
-summary: ''
+summary: summary here
+abstract: abstract here
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -21,7 +22,7 @@ date: '2022-04-07'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: ''
+publishDate: 
 
 authors: [Christopher Seto]
 tags: [COVID-19, Anti-Asian discrimination, Google trends, Stop AAPI Hate]
