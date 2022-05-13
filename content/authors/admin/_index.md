@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Crime and Delinquency
-  - Health
   - Religion and Ideology
+  - Health and Substance Use
   - Quantitative Methods
   - Big Data Analytics
 social:
@@ -31,6 +31,9 @@ education:
       institution: The Pennsylvania State University
       year: 2020
     - course: BS in Electrical Engineering
+      institution: Hope College
+      year: 2016
+    - course: BA in Sociology
       institution: Hope College
       year: 2016
 email: chs37@psu.edu
