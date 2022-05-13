@@ -4,7 +4,7 @@ title: Collateral Consequences of Coronavirus -- Exploring Contextual and Situat
 event: Population Association of America (PAA) 2022 Annual Meeting
 event_url: 'https://www.populationassociation.org/paa2022/home'
 
-location: Atlanta, GA
+location: Population Association of America (PAA) 2022, Atlanta, GA
 address: 
   street:
   city: 
