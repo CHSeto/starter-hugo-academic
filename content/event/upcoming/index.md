@@ -1,7 +1,7 @@
 ---
 title: Ethno-racial violence and political competition across three elections -- A machine learning approach
 
-event: American Sociological Association (ASA) 2022 Annual Meeting, August 6-9
+event: American Sociological Association (ASA) 2022 Meeting, Aug 6-9
 event_url: 'https://www.asanet.org/annual-meeting/2022-annual-meeting'
 
 location: American Sociological Association (ASA) 2022, Los Angeles, CA
@@ -17,7 +17,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ''
+# date: ''
 # date_end: '2022-08-07'
 all_day: false
 
