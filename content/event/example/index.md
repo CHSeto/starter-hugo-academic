@@ -1,5 +1,5 @@
 ---
-title: Collateral Consequences of Coronavirus: Exploring Contextual and Situational Predictors of Anti-Asian Hate Incidents in the United States during 2020
+title: Collateral Consequences of Coronavirus -- Exploring Contextual and Situational Predictors of Anti-Asian Hate Incidents in the United States during 2020
 
 event: Population Association of America (PAA) 2022 Annual Meeting
 event_url: 'https://www.populationassociation.org/paa2022/home'
