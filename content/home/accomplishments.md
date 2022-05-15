@@ -72,14 +72,6 @@ item:
     title: First place, Annual Criminology Master's Thesis Award
     url: ''
   - certificate_url:
-    date_end:
-    date_start: '2021-01-01'
-    description: ''
-    organization: The Pennsylvania State University, Department of Sociology and Criminology
-    organization_url:
-    title: First place, Annual Criminology Master's Thesis Award
-    url: ''
-  - certificate_url:
     date_end: ''
     date_start: '2020-04-01'
     description: ''
