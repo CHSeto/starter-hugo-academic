@@ -5,7 +5,7 @@ title: 'Perceived risk, political polarization, and the willingness to follow CO
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Ray Block Jr
+  - Ray Block Jr.
   - Michael Burnham
   - Kayla Kahn
   - Rachel Peng
@@ -13,13 +13,8 @@ authors:
   - Christopher Seto
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+# - 'Equal contribution'
 
 date: '2022-06-02'
 doi: 'https://doi.org/10.1016/j.socscimed.2022.115091'
