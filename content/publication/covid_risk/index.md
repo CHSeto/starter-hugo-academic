@@ -13,9 +13,10 @@ authors:
   - Christopher H. Seto
 
 # Author notes (optional)
-  author_notes: 'Equal contribution by all authors'
+#  author_notes: 
+#  - 'Equal contribution by all authors'
  
-date: '2022-06-01'
+date: '2022-06-02'
 doi: 'https://doi.org/10.1016/j.socscimed.2022.115091'
 
 # Schedule page publish date (NOT publication's date).
