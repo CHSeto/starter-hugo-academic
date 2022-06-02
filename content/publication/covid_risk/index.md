@@ -13,8 +13,8 @@ authors:
   - Christopher Seto
 
 # Author notes (optional)
-#  author_notes:
-#  - 'Equal contribution'
+  author_notes:
+  - 'Equal contribution'
 
 date: '2022-06-01'
 doi: 'https://doi.org/10.1016/j.socscimed.2022.115091'
