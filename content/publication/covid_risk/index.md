@@ -41,7 +41,7 @@ abstract: Objective -- Risk assessment and response is important for understandi
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: ['COVID-19' 'Ideology' 'Political polarization' 'Adherence' 'Disease mitigation behavior' 'Risk perception' 'Social media' 'Public opinion']
+tags: [COVID-19, Ideology, Political polarization, Adherence, Disease mitigation behavior, Risk perception, Social media, Public opinion]
 
 # Display this page in the Featured widget?
 featured: true
