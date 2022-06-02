@@ -10,10 +10,15 @@ authors:
   - Kayla Kahn
   - Rachel Peng
   - Jeremy Seeman
-  - Christopher Seto
+  - Christopher H. Seto
 
 # Author notes (optional)
   author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - 'Equal contribution'
   - 'Equal contribution'
 
 date: '2022-06-01'
