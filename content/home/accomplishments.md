@@ -25,6 +25,22 @@ date_format: Jan 2006
 item:
   - certificate_url:
     date_end: ''
+    date_start: '2022-08-01'
+    description: ''
+    organization: Social Science Research Council
+    organization_url:
+    title: Religion, Spirituality, and Democratic Renewal Fellowship ($15,000)
+    url: 'https://www.ssrc.org/programs/religion-and-the-public-sphere/religion-spirituality-and-democratic-renewal-fellowship/'
+  - certificate_url:
+    date_end: ''
+    date_start: '2022-07-01'
+    description: ''
+    organization: The Russell Sage Foundation
+    organization_url:
+    title: Inaugural Dissertation Research Grant ($10,000)
+    url: 'https://www.russellsage.org/research/dissertation-research-grants'
+  - certificate_url:
+    date_end: ''
     date_start: '2022-04-01'
     description: ''
     organization: The Pennsylvania State University, Department of Sociology and Criminology
