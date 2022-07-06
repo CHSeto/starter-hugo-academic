@@ -41,6 +41,14 @@ item:
     url: 'https://www.russellsage.org/research/dissertation-research-grants'
   - certificate_url:
     date_end: ''
+    date_start: '2022-06-01'
+    description: ''
+    organization: Society for the Scientific Study of Religion
+    organization_url:
+    title: Travel Grant ($862)
+    url: 'https://sssreligion.org/awards-grants/student-travel-grants/'
+  - certificate_url:
+    date_end: ''
     date_start: '2022-04-01'
     description: ''
     organization: The Pennsylvania State University, Department of Sociology and Criminology
