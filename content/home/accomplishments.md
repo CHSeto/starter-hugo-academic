@@ -45,7 +45,7 @@ item:
     description: ''
     organization: Society for the Scientific Study of Religion
     organization_url:
-    title: Travel Grant ($862)
+    title: Conference travel grant
     url: 'https://sssreligion.org/awards-grants/student-travel-grants/'
   - certificate_url:
     date_end: ''
