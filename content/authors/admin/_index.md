@@ -4,11 +4,9 @@ role: PhD Candidate (ABD)
 avatar_filename: avatar.jpg
 bio: "Chris is a PhD candidate in Criminology at Penn State. His research interests focus on religious and ideological effects on crime and health and the application of spatial methods and big data analytics to understanding these phenomena at scale."
 interests:
-  - Crime and Delinquency
-  - Religion and Ideology
-  - Health and Substance Use
-  - Quantitative Methods
-  - Big Data Analytics
+  - Religion and Communities
+  - Crime and Health Risks
+  - Quantitative Methods and Big Data Analytics
 social:
   - icon: envelope
     icon_pack: fas
