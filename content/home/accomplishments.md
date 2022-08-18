@@ -49,14 +49,6 @@ item:
     url:
   - certificate_url:
     date_end:
-    date_start: '2021-11-01'
-    description: ''
-    organization: The American Society of Criminology (ASC)
-    organization_url:
-    title: Second place, Gene Carte Student Paper Competition
-    url: 'https://asc41.com/about-asc/awards/gene-carte-student-paper-award-recipients/'
-  - certificate_url:
-    date_end:
     date_start: '2021-08-01'
     description: ''
     organization: The Pennsylvania State University, Criminal Justice Research Center
