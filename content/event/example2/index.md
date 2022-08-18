@@ -2,7 +2,7 @@
 title: God and Group: The Ecology of Religiously Motivated Hate Crimes
 
 event: American Society of Criminology (ASC) 2022 Annual Meeting
-event_url: 'http://asc41.com/events/2022-asc-annual-meeting/'
+event_url: ''
 
 location: American Society of Criminology (ASC) 2022, Atlanta, GA
 address: 
