@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading. 'Accomplish&shy;ments'
-title: Awards and Grants
+title: Internal Awards and Grants
 subtitle:
 
 # Date format
@@ -27,26 +27,10 @@ item:
     date_end: ''
     date_start: '2022-08-01'
     description: ''
-    organization: Social Science Research Council
+    organization: The Pennsylvania State University, Department of Sociology and Criminology 
     organization_url:
-    title: Religion, Spirituality, and Democratic Renewal Fellowship ($15,000)
-    url: 'https://www.ssrc.org/programs/religion-and-the-public-sphere/religion-spirituality-and-democratic-renewal-fellowship/'
-  - certificate_url:
-    date_end: ''
-    date_start: '2022-07-01'
-    description: ''
-    organization: The Russell Sage Foundation
-    organization_url:
-    title: Inaugural Dissertation Research Grant ($10,000)
-    url: 'https://www.russellsage.org/research/dissertation-research-grants'
-  - certificate_url:
-    date_end: ''
-    date_start: '2022-06-01'
-    description: ''
-    organization: Society for the Scientific Study of Religion
-    organization_url:
-    title: Conference travel grant
-    url: 'https://sssreligion.org/awards-grants/student-travel-grants/'
+    title: Outstanding Criminology Student Work Award
+    url: ''
   - certificate_url:
     date_end: ''
     date_start: '2022-04-01'
