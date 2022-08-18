@@ -1,10 +1,10 @@
 ---
-title: Collateral Consequences of Coronavirus -- Exploring Contextual and Situational Predictors of Anti-Asian Hate Incidents in the United States during 2020
+title: God and Group: The Ecology of Religiously Motivated Hate Crimes
 
-event: Population Association of America (PAA) 2022 Annual Meeting
-event_url: 'https://www.populationassociation.org/paa2022/home'
+event: American Society of Criminology (ASC) 2022 Annual Meeting
+event_url: 'http://asc41.com/events/2022-asc-annual-meeting/'
 
-location: Population Association of America (PAA) 2022, Atlanta, GA
+location: American Society of Criminology (ASC) 2022, Atlanta, GA
 address: 
   street:
   city: 
@@ -17,15 +17,15 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-04-07'
+date: '2022-11-18'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 
+publishDate: '2022-01-01'
 
 authors: [Christopher Seto]
-tags: [COVID-19, Anti-Asian discrimination, Google trends, Stop AAPI Hate]
+tags: [Religion, Religious discrimination, Hate crime, Social ecology]
 
 # Is this a featured talk? (true/false)
 featured: false
