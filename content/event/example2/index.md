@@ -22,7 +22,7 @@ date: '2022-11-18'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 
+publishDate: '2022-01-01'
 
 authors: [Christopher Seto]
 tags: [Religion, Hate crimes, Spatial]
